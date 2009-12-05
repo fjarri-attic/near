@@ -2,5 +2,6 @@
 *.app
 *.o
 ui_*.h
+moc_*.cpp
 Makefile
 *.pro.user
