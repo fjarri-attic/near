@@ -27,4 +27,3 @@ void ProcessWrapper::finalizeExecution(int exitCode, QProcess::ExitStatus exitSt
 {
 	emit finished(exitCode, exitStatus == QProcess::CrashExit);
 }
-
